@@ -37,14 +37,6 @@ Currently focused on building <strong>AI-powered applications</strong>, improvin
 I’m particularly interested in problems involving <strong>distributed systems, automation, and applied AI</strong>.
 </p>
 
-<img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_LINE.png" alt="Line" width="100%" />
-
-### Connect with me
-<p align="left">
-  <a href="https://codepen.io/italopolazzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="italopolazzi" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/italopolazzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="italopolazzi" height="30" width="30" /></a>
-</p>
-
 <p align="center">
   <img width="20%" src="https://media1.giphy.com/media/RkKAxMrrDVxuQnwhgs/source.gif" alt=""/>
 </p>
