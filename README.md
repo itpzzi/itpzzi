@@ -1,38 +1,50 @@
-<h1 align="right">Hi there 👋, I'm Ítalo Polazzi</h1>
-<h2 align="right">Mid-Level Full Stack Developer | Front-End Specialist | Problem Solver</h2>
+<h1 align="right">Hi there 👋, I'm Ítalo Ferreira</h1>
+<h2 align="right">Full Stack Developer | Vue.js | Python | Scalable Systems | Applied AI</h2>
 <img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_LINE.png" alt="Line" width="100%" />
 
 ### About Me
 <p style="font-size: 16px; line-height: 1.5;">
-    I’m a passionate and experienced <strong>Full Stack Developer</strong> with a specialization in <strong>Front-End Development</strong>. My journey began with a strong foundation in Computer Science, leading to a diverse career where I’ve tackled everything from interactive, user-centric interfaces to back-end integrations. I thrive on building robust, scalable solutions and am always keen to enhance both functionality and user experience.
+I’m a <strong>Full Stack Developer</strong> with 6+ years of hands-on experience building scalable, high-performance applications.  
+I work across the entire stack, combining solid software engineering practices with a strong focus on <strong>performance, architecture, and real-world problem solving</strong>.  
+
+Recently, I’ve been building projects involving <strong>LLMs and computer vision</strong>, integrating AI into practical systems — from generative simulations to intelligent media processing.
 </p>
 
 ### Skills and Technologies
 <ul style="font-size: 16px; line-height: 1.5;">
-    <li><strong>Front-End:</strong> Vue.js, React, HTML5, CSS3, JavaScript (ES6+)</li>
-    <li><strong>Back-End:</strong> Python (Flask, Django), Java, Node.js</li>
-    <li><strong>DevOps:</strong> Docker, Kubernetes, CI/CD, SonarQube, Sentry</li>
-    <li><strong>Database:</strong> MongoDB, SQL</li>
-    <li><strong>Tools & Methodologies:</strong> TypeScript, Git, Miro, Swagger, Storybook, Figma</li>
-    <li><strong>Security:</strong> App vulnerability assessments, security policy implementation</li>
-    <li><strong>Other:</strong> Linux, Clean Architecture, Atomic Design, Agile (Scrum), Microservices, Hexagonal Architecture</li>
+    <li><strong>Frontend:</strong> Vue.js (2 & 3), React, TypeScript, Vite, SPAs, reusable components (PrimeVue, Material UI)</li>
+    <li><strong>Backend:</strong> Python (Django, Flask), Node.js, REST APIs, system integrations</li>
+    <li><strong>Architecture:</strong> Clean Architecture, DDD, event-driven systems, legacy modernization</li>
+    <li><strong>DevOps & Cloud:</strong> Docker, Kubernetes, Google Cloud Platform, CI/CD, Sentry</li>
+    <li><strong>Databases:</strong> PostgreSQL, MongoDB, SQLite</li>
+    <li><strong>AI & ML:</strong> LLMs (Ollama, Gemma), CLIP, InsightFace</li>
+    <li><strong>Security:</strong> OWASP practices, CSP, SSO (Keycloak, Cognito, SAML)</li>
+    <li><strong>Tools:</strong> Git, SonarQube, Jest, Pytest, Swagger, Storybook, Figma, Miro</li>
 </ul>
 
 ### Highlights
 <p style="font-size: 16px; line-height: 1.5;">
-    I completed my Bachelor's in <strong>Computer Science</strong>, where I engaged in a variety of projects that honed my skills and laid the groundwork for my professional journey. Notably, I participated in a startup acceleration program, which provided me the opportunity to work on innovative solutions like voice command applications integrated with <strong>Microsoft Azure</strong>, <strong>C#,</strong> and <strong>Angular.js</strong>. This experience, coupled with my commitment to continuous learning, set the stage for a career dedicated to developing high-quality software.
+🔹 Built a generative AI mod for <strong>The Sims 3</strong>, using local LLMs to simulate character thoughts and behaviors in real time. <br/>
+🔹 Developed a local <strong>Google Photos–like system</strong> with ML-powered face recognition and semantic classification. <br/>
+🔹 Automated manual business processes, reducing operational errors and improving efficiency by ~90%. <br/>
+🔹 Led frontend initiatives and contributed to architectural decisions in production systems. <br/>
+🔹 Refactored and modernized legacy applications using <strong>Clean Architecture</strong> and <strong>DDD</strong>.  
 </p>
 
-### Always Learning
+### Always Building
 <p style="font-size: 16px; line-height: 1.5; color: #2E86C1;">
-    Currently, I’m honing my skills in <strong>TypeScript</strong> with <strong>Nest.js</strong> and <strong>Python</strong> with <strong>Flask</strong>, plus getting hands-on with <strong>Docker</strong>, <strong>Kubernetes</strong>, and <strong>Terraform</strong>. Advanced architectures like <strong>Hexagonal</strong> and <strong>Event-Driven Design</strong>? Just another part of the learning curve I’m climbing, one code snippet at a time.
-</p><img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_LINE.png" alt="Line" width="100%" />
+Currently focused on building <strong>AI-powered applications</strong>, improving system design skills, and exploring scalable architectures.  
+I’m particularly interested in problems involving <strong>distributed systems, automation, and applied AI</strong>.
+</p>
+
+<img src="https://github.com/italopolazzi/italopolazzi/blob/master/SeBANNER_LINE.png" alt="Line" width="100%" />
 
 ### Connect with me
 <p align="left">
   <a href="https://codepen.io/italopolazzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="italopolazzi" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/italopolazzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="italopolazzi" height="30" width="30" /></a>
 </p>
+
 <p align="center">
   <img width="20%" src="https://media1.giphy.com/media/RkKAxMrrDVxuQnwhgs/source.gif" alt=""/>
 </p>
